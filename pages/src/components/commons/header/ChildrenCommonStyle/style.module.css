@@ -1,0 +1,10 @@
+.active {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+.inactive {
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-20px);
+}
